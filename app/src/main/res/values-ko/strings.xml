@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="_0_00">0.00</string>
+    <string name="celsius">섭씨</string>
+    <string name="fahrenheit">화씨</string>
+    <string name="_32_00">32.00</string>
+    <string name="warmer">더 따뜻했으면 좋았을텐데</string>
+    <string name="colder">더 추웠으면 좋았을텐데</string>
+</resources>

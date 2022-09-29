@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="_0_00">0.00</string>
+    <string name="celsius">摄氏度</string>
+    <string name="fahrenheit">华氏度</string>
+    <string name="_32_00">32.00</string>
+    <string name="warmer">我希望热一点。</string>
+    <string name="colder">我希望冷一点。</string>
+</resources>
